@@ -1,0 +1,14 @@
+.p-dayselector-group-container {
+    margin-top: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;    
+}
+
+.p-dayselector-group-container .p-listbox {
+    border: none;
+}
+
+.p-dayselector-group-toolbox {
+    margin-left: 5px;
+}
